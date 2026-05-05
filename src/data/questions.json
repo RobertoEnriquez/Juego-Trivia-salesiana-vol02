@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "case": "Un docente publica en su Instagram personal una 'selfie' con sus alumnos de 3ero de Bachillerato durante una parrillada organizada fuera del colegio, usando el hashtag #ProfeChevere.",
+    "options": [
+      "Es una acción positiva que fortalece el clima de confianza y la amabilidad salesiana fuera del aula.",
+      "Es aceptable siempre que los estudiantes hayan dado su consentimiento verbal al momento de la foto.",
+      "Incumple la norma de mantener una conducta transparente y el uso adecuado de redes sociales para fines no institucionales.",
+      "Solo es una falta si los estudiantes aparecen consumiendo bebidas alcohólicas o en actitudes inapropiadas."
+    ],
+    "correct_index": 2,
+    "feedback": "Argumento: Los educadores deben evitar el uso de redes personales para mostrar actividades con alumnos que puedan comprometer la imagen institucional o la privacidad. Capítulo III, Numeral 16 y Capítulo IV, Numeral 25 (Págs. 17, 19).",
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "case": "Debido al ruido excesivo en un curso de Básica Elemental, el profesor advierte: 'Si no guardan silencio ahora mismo, la tarea de matemáticas para mañana será el doble de larga y difícil'.",
+    "options": [
+      "Es una estrategia pedagógica válida de refuerzo negativo para controlar la disciplina grupal.",
+      "Contraviene el respeto a la dignidad del estudiante, usando lo académico como herramienta de castigo o amenaza.",
+      "Es una medida justa ya que el silencio es requisito indispensable para el aprendizaje de todos.",
+      "Es aceptable siempre y cuando el docente cumpla con la advertencia para no perder autoridad."
+    ],
+    "correct_index": 1,
+    "feedback": "Argumento: No se debe usar la carga académica como mecanismo de represalia o control disciplinario negativo. Capítulo III, Numeral 10 y Capítulo IV, Numeral 29 (Págs. 15, 20).",
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "case": "Un docente de Bachillerato, aprovechando su jerarquía, pide a dos estudiantes varones que carguen botellones de agua desde la entrada hasta la sala de profesores porque 'están jóvenes y fuertes'.",
+    "options": [
+      "Es una forma de fomentar el espíritu de servicio y colaboración dentro de la comunidad educativa.",
+      "Es permitido si los estudiantes lo hacen voluntariamente y no pierden horas de clase.",
+      "Constituye una presión indebida y el ejercicio de servicios personales ajenos a la labor educativa.",
+      "Es una práctica común que no infringe ninguna norma ética si se pide con cortesía."
+    ],
+    "correct_index": 2,
+    "feedback": "Argumento: No se debe ejercer presión para que los estudiantes realicen servicios personales o tareas físicas que no correspondan a su formación. Capítulo III, Numeral 11 y Capítulo IV, Numeral 37 (Págs. 15, 22).",
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "case": "La institución necesita fondos para un festival folclórico. El tutor exige a los alumnos vender 10 boletos de una rifa externa, advirtiendo que quien no los venda deberá pagar el alquiler de su propio traje.",
+    "options": [
+      "Es una medida necesaria para garantizar la participación de todos en los eventos institucionales.",
+      "Es incorrecto obligar a los estudiantes a recaudar fondos para fines externos o condicionar su participación.",
+      "Es aceptable si el Consejo Ejecutivo aprobó la actividad de autogestión previamente.",
+      "Es una lección de responsabilidad financiera y gestión de recursos para los estudiantes."
+    ],
+    "correct_index": 1,
+    "feedback": "Argumento: No se debe utilizar a los estudiantes para beneficios económicos externos o condicionar derechos educativos a recaudaciones. Capítulo III, Numeral 17 (Pág. 17).",
+    "difficulty": 2
+  },
+  {
+    "id": 5,
+    "case": "Tras recibir una amonestación de la Rectora por el bajo promedio del curso, un docente decide anular la salida al patio de todo el grado como medida de presión para que 'reflexionen'.",
+    "options": [
+      "Es una sanción colectiva permitida para fomentar la autorregulación del grupo.",
+      "Es válida si el docente considera que el tiempo de recreo debe usarse para nivelación académica.",
+      "Las represalias académicas o disciplinarias colectivas son contrarias al trato respetuoso y justo.",
+      "Es una decisión autónoma del docente dentro de su gestión de aula."
+    ],
+    "correct_index": 2,
+    "feedback": "Argumento: El personal debe evitar expresiones negativas o agresivas y represalias que afecten la integridad moral del grupo. Capítulo III, Numeral 10 (Pág. 15).",
+    "difficulty": 2
+  },
+  {
+    "id": 6,
+    "case": "Durante una hora de 'trabajo autónomo', un docente sale del aula para ir al bar escolar a desayunar, dejando a los estudiantes de 10mo de Básica solos por 20 minutos.",
+    "options": [
+      "Es aceptable si los estudiantes tienen instrucciones claras y el bar está cerca del aula.",
+      "Es un incumplimiento del deber de asistencia y vigilancia constante de los menores a cargo.",
+      "Se permite si el docente tiene una condición médica que requiere alimentación puntual.",
+      "No es falta si el presidente de curso queda encargado de reportar cualquier novedad."
+    ],
+    "correct_index": 1,
+    "feedback": "Argumento: La 'asistencia' salesiana implica la presencia educativa y cotidiana del educador entre los jóvenes. Capítulo IV, Numeral 36 (Pág. 21).",
+    "difficulty": 2
+  },
+  {
+    "id": 7,
+    "case": "Un docente se presenta a la institución vistiendo indumentaria que se aleja del decoro institucional. Ante la observación de Inspección General, el docente responde que es su 'identidad personal' y rechaza adoptar un estándar formal. Ante este escenario, ¿Qué establece el código de ética?",
+    "options": [
+      "El Código de Ética no puede regular la vestimenta por ser un derecho a la libre expresión.",
+      "Es aceptable mientras la docente cumpla eficientemente con su carga horaria y pedagógica.",
+      "El personal debe mantener una vestimenta sobria y discreta, acorde a su función de referente educativo.",
+      "Solo es cuestionable si los estudiantes o padres de familia presentan una queja formal."
+    ],
+    "correct_index": 2,
+    "feedback": "Argumento: Se debe mantener una vestimenta sobria y discreta, acorde al cargo y función. Capítulo III, Numeral 8 y Capítulo IV, Numeral 44d (Págs. 15, 25).",
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "case": "Para corregir a un niño de Preparatoria que interrumpe la clase, la maestra lo coloca de pie frente a la pared durante el resto de la jornada para que 'no afecte a los demás'.",
+    "options": [
+      "Es un método tradicional eficaz para que el niño entienda los límites de su conducta.",
+      "Es una medida de protección para el resto del grupo que desea aprender sin distracciones.",
+      "Esta práctica constituye un trato humillante que atenta contra la dignidad y el respeto al menor.",
+      "Es aceptable si la maestra ya agotó todas las instancias de diálogo previo."
+    ],
+    "correct_index": 2,
+    "feedback": "Argumento: Se debe garantizar el pleno respeto a la dignidad e integridad física y moral, evitando cualquier forma de humillación. Capítulo IV, Numeral 29 (Pág. 20).",
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "case": "Un profesor pide a sus alumnos que graben video para TikTok explicando algún tema académico, y lo publiquen con privacidad 'Pública' para calificar el alcance.",
+    "options": [
+      "Es una forma innovadora de integrar la tecnología y educación moderna.",
+      "Vulnera el derecho a la privacidad de los menores y los expone innecesariamente en redes públicas.",
+      "Es válido si el docente aclara que es para fines puramente académicos.",
+      "Es responsabilidad de los padres configurar la privacidad de las cuentas de sus hijos."
+    ],
+    "correct_index": 1,
+    "feedback": "Argumento: No se debe obligar a los estudiantes a exponer su imagen o información privada en espacios electrónicos no protegidos. Capítulo III, Numeral 19 (Pág. 17).",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "case": "Por la alta carga administrativa, un docente pide a los 3 mejores alumnos que le ayuden a calificar las pruebas de sus compañeros.",
+    "options": [
+      "Es una muestra de confianza que motiva a los estudiantes excelentes y aligera el trabajo docente.",
+      "Es aceptable si los alumnos firman un acuerdo de confidencialidad de las notas.",
+      "Delegar funciones profesionales evaluativas en estudiantes infringe la ética y la confidencialidad.",
+      "Es una excelente práctica de coevaluación supervisada por el docente."
+    ],
+    "correct_index": 2,
+    "feedback": "Argumento: El personal debe desarrollar sus relaciones profesionales con esmero y fidelidad, sin delegar sus responsabilidades propias. Capítulo III, Numeral 1 (Pág. 14).",
+    "difficulty": 3
+  },
+  {
+    "id": 11,
+    "case": "Un tutor envía a un estudiante de 9no de Básica al bar para que le compre un sándwich y un café, dándole el dinero para la compra.",
+    "options": [
+      "Es un gesto de amabilidad del estudiante que no perjudica a nadie si es en tiempo de recreo.",
+      "El docente debe evitar enviar a menores a realizar servicios o mandados personales.",
+      "Es permitido siempre que el estudiante regrese rápido y no se distraiga de sus actividades.",
+      "No es falta si el docente tiene una relación de mucha confianza con la familia del alumno."
+    ],
+    "correct_index": 1,
+    "feedback": "Argumento: Deben evitarse servicios personales por parte de estudiantes hacia el personal. Capítulo IV, Numeral 37 (Pág. 22).",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "case": "Un grupo de docentes organiza una salida informal y pide a unos estudiantes que traigan ciertos materiales de la institución sin avisar a las autoridades, diciéndoles: 'Es nuestro secreto'.",
+    "options": [
+      "Involucrar a estudiantes como cómplices de faltas institucionales es una transgresión ética grave.",
+      "Es una forma de fortalecer el vínculo emocional y la complicidad positiva educador-joven.",
+      "No es problema si el tutor o docente del aula, acompaña pero no organiza a los estudiantes.",
+      "Es responsabilidad de los docentes, y los estudiantes solo están siguiendo órdenes."
+    ],
+    "correct_index": 0,
+    "feedback": "Argumento: Mantener relaciones de 'secreto' con menores o involucrarlos en irregularidades es una conducta inadecuada. Capítulo IV, Numeral 44k (Pág. 26).",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "case": "Un profesor de Educación Física observa que un grupo de niñas de Básica Superior no quieren hacer la clase en short, a pesar de ser el uniforme. El profesor les advierte que si no lo usan, su calificación bajará automáticamente a 5. ¿Es válida esta medida?",
+    "options": [
+      "El docente tiene la potestad y obligación de exigir el uso correcto del uniforme reglamentario de educación física.",
+      "Es una medida necesaria para garantizar la uniformidad estética en presentaciones públicas.",
+      "Obligar a prendas incómodas bajo amenaza atenta contra la integridad y el respeto a la intimidad.",
+      "La calificación debe ser el único medio para asegurar que se sigan las reglas institucionales."
+    ],
+    "correct_index": 2,
+    "feedback": "Argumento: Se debe respetar la integridad física y moral, evitando presiones que generen incomodidad o sospechen de conducta inadecuada. Capítulo IV, Numeral 29 (Pág. 20).",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "case": "Un estudiante pide permiso para salir temprano por una emergencia familiar. El profesor lo autoriza confiando en la palabra del alumno, sin llamar a los padres ni pedir autorización escrita.",
+    "options": [
+      "Es un acto de confianza salesiana que valora la palabra del joven por sobre la burocracia.",
+      "Es aceptable si el representante del estudiante se comunicó vía telefónica.",
+      "Es una falta administrativa grave al no contar con la autorización escrita obligatoria de los padres.",
+      "Solo es falta si al estudiante le sucede algún accidente durante el trayecto a su casa."
+    ],
+    "correct_index": 2,
+    "feedback": "Argumento: Se requiere autorización escrita de padres o responsables legales para salidas de menores. Capítulo IV, Numeral 38 (Pág. 22).",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "case": "Un docente abandona a su curso durante una salida cultural para ir a realizar trámites personales, regresando solo para el momento del bus de retorno.",
+    "options": [
+      "Es válido si el docente tomó lista antes de retirarse y dejó al presidente de curso a cargo.",
+      "Es una falta al deber de acompañamiento y vigilancia constante ('asistencia') del grupo a cargo.",
+      "Es aceptable siempre que el docente haya notificado por mensaje de texto a un colega.",
+      "El docente tiene derecho a optimizar su tiempo si el grupo ya está realizando la actividad."
+    ],
+    "correct_index": 1,
+    "feedback": "Argumento: El estilo salesiano de asistencia requiere la presencia física y activa del educador con el grupo. Capítulo IV, Numeral 36 (Pág. 21).",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "case": "Un docente suele sentarse sobre el escritorio frente a los estudiantes mientras pide que no hagan bulla y que guarden la 'postura correcta'.",
+    "options": [
+      "Es una técnica de proximidad para romper la barrera jerárquica con los alumnos.",
+      "No existe ninguna norma que prohíba al docente sentarse donde le resulte más cómodo.",
+      "El educador debe ser testimonio de los valores que propone, manteniendo formas adecuadas.",
+      "Es aceptable en ambientes informales como tutorías o convivencias espirituales."
+    ],
+    "correct_index": 2,
+    "feedback": "Argumento: El estilo salesiano es testimonial y debe reflejar los valores de orden y respeto en la propia piel. Capítulo IV, Numeral 36 (Pág. 21).",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "case": "Durante la entrega de libretas a los padres, un docente ignora a un representante que desea preguntar por el avance de su hijo para seguir revisando su celular personal.",
+    "options": [
+      "El docente tiene derecho a usar su celular si la jornada oficial de la reunión ya terminó.",
+      "Es una falta de cortesía y profesionalismo en la relación con las familias y la comunidad.",
+      "Es aceptable si el docente está atendiendo una urgencia familiar por mensajes.",
+      "La comunicación con los padres debe ser solo por canales oficiales y no en persona."
+    ],
+    "correct_index": 1,
+    "feedback": "Argumento: Se debe manifestar aprecio y bondad con todos, manteniendo alta cordialidad y comunicación. Capítulo III, Numeral 4 y 6 (Págs. 14, 15).",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "case": "Un docente sospecha de un comportamiento inadecuado de un colega hacia una menor, pero decide callar para no 'ser chismoso' ni 'perder la amistad'.",
+    "options": [
+      "Es una decisión prudente que evita escándalos innecesarios antes de tener pruebas reales.",
+      "Ocultar o silenciar sospechas de abusos es una falta grave a la responsabilidad ética de reporte.",
+      "Se debe esperar a que los padres presenten la denuncia oficial para no intervenir.",
+      "La lealtad entre compañeros debe primar sobre rumores que pueden ser infundados."
+    ],
+    "correct_index": 1,
+    "feedback": "Argumento: Existe la responsabilidad de reportar rápidamente cualquier sospecha o acusación de conducta inadecuada. Capítulo V, Numeral 45 (Pág. 27).",
+    "difficulty": 3
+  },
+  {
+    "id": 19,
+    "case": "Un educador realiza una sesión de consejería con una estudiante a solas en un aula con la puerta y corinas cerradas para 'garantizar la privacidad' del diálogo.",
+    "options": [
+      "Es la forma correcta de manejar la confidencialidad en temas delicados del estudiante.",
+      "Es una práctica insegura que contraviene la norma de ambientes visibles y abiertos.",
+      "Es aceptable si el docente es el tutor legal del curso.",
+      "Solo es falta si existe un contacto físico inapropiado durante la sesión."
+    ],
+    "correct_index": 1,
+    "feedback": "Argumento: Los diálogos deben realizarse en ambientes abiertos o visibles (con ventanas/puertas que permitan visión). Capítulo IV, Numeral 26 (Pág. 19).",
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "case": "Un docente se expresa en son de burla sobre la capacidad intelectual de un grupo de alumnos frente a otros profesores en la sala de docentes.",
+    "options": [
+      "Es un desahogo natural ante el estrés laboral y no constituye una falta ética real.",
+      "Está permitido si los comentarios son ciertos y se dicen en un ámbito privado de adultos.",
+      "Incumple la norma de no expresarse jamás en términos agresivos o negativos de los destinatarios.",
+      "Solo es falta si los comentarios llegan a oídos de los estudiantes o sus padres."
+    ],
+    "correct_index": 2,
+    "feedback": "Argumento: No debemos expresarnos en términos agresivos o negativos en relación a los destinatarios. Capítulo III, Numeral 10 (Pág. 15).",
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "case": "Para un festival, un docente utiliza la cuenta de correo institucional para enviar publicidad de su negocio personal de venta de trajes típicos.",
+    "options": [
+      "Es una forma inteligente de aprovechar los recursos para apoyar el emprendimiento docente.",
+      "Es aceptable si ofrece descuentos especiales para los estudiantes de la institución.",
+      "Constituye un uso indebido de herramientas tecnológicas para beneficio personal ajeno a la obra.",
+      "No es falta si el correo se envía fuera del horario laboral del docente."
+    ],
+    "correct_index": 2,
+    "feedback": "Argumento: No utilizamos las herramientas de comunicación institucional para beneficio personal o actividades ajenas. Capítulo III, Numeral 17 (Pág. 17).",
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "case": "Un docente de Inicial 2 abraza de forma prolongada (abrazo de oso) a un niño pequeño como muestra de afecto 'maternal'.",
+    "options": [
+      "Es una conducta adecuada que refleja la ternura que se hace necesaria en los niveles iniciales.",
+      "Es una muestra natural de cariño que no debe ser malinterpretada debido a la edad del niño.",
+      "Es una conducta expresamente considerada inadecuada.",
+      "Solo es cuestionable si los padres del niño no autorizan ese tipo de afectos."
+    ],
+    "correct_index": 2,
+    "feedback": "Argumento: Los besos en la boca a menores son conductas inadecuadas bajo cualquier circunstancia. Capítulo IV, Numeral 43n (Pág. 25).",
+    "difficulty": 3
+  },
+  {
+    "id": 23,
+    "case": "Durante la jornada laboral, un docente se dedica a mirar videos de sus series favoritas usando el internet de la institución.",
+    "options": [
+      "No es falta si el docente ya terminó de explicar el tema y los alumnos están trabajando.",
+      "Es un uso indebido de los recursos tecnológicos institucionales para fines no laborales.",
+      "Es aceptable si el docente usa su propia computadora personal y es su 'hora libre'.",
+      "Ayuda a relajar la mente del docente debido a la carga laboral, por lo que no influyen en el comportamiento ético docente."
+    ],
+    "correct_index": 1,
+    "feedback": "Argumento: Se prohíbe el uso de herramientas de comunicación para apuestas o actividades ajenas a la obra. Capítulo III, Numeral 17 (Pág. 17).",
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "case": "Un tutor permite que los estudiantes organicen juegos de 'luchas' o cargarse en la espalda durante un jornada recreativa dirigido para 'liberar energía'.",
+    "options": [
+      "Es una excelente dinámica de integración física y lúdica para los adolescentes.",
+      "Son juegos de acercamiento físico inadecuado que el educador debe evitar y redirigir.",
+      "Es aceptable mientras no se produzcan lesiones físicas visibles entre los participantes.",
+      "Es decisión de los estudiantes cómo jugar si el docente está presente vigilando."
+    ],
+    "correct_index": 1,
+    "feedback": "Argumento: Se deben evitar juegos que impliquen contacto físico inadecuado (luchas, cargar en la espalda). Capítulo IV, Numeral 43j y 43l (Págs. 24).",
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "case": "Un docente recibe la confidencia de un estudiante sobre una situación de riesgo familiar, pero el alumno le pide que sea 'nuestro secreto y no se lo diga a nadie'.",
+    "options": [
+      "El docente debe guardar el secreto para no perder la confianza y amistad ganada con el estudiante.",
+      "Debe intentar resolver el problema él mismo sin involucrar a las autoridades, ya que el problema puede hacerse más grande.",
+      "La reserva tiene límites; situaciones de riesgo deben reportarse a especialistas/autoridades.",
+      "La ética profesional obliga al secreto absoluto."
+    ],
+    "correct_index": 2,
+    "feedback": "Argumento: Información de riesgo debe derivarse a especialistas con consentimiento de responsables, priorizando el bienestar del menor. Capítulo IV, Numeral 28 (Pág. 20).",
+    "difficulty": 3
+  },
+  {
+    "id": 26,
+    "case": "En un curso de Bachillerato, el profesor suele bromear con comentarios de 'doble sentido' para 'hacer la clase más relajada'.",
+    "options": [
+      "Es una técnica humorística válida para conectar con el lenguaje de los adolescentes modernos.",
+      "Es aceptable si las estudiantes no se quejan y se ríen de las bromas del docente.",
+      "Constituye una conducta inadecuada que involucra expresiones verbales de mal gusto.",
+      "Solo es falta si las bromas tienen contenido sexual explícito y directo."
+    ],
+    "correct_index": 2,
+    "feedback": "Argumento: Se consideran inadecuados los saludos equívocos, expresiones de doble sentido o de mal gusto. Capítulo IV, Numeral 43b (Pág. 24).",
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "case": "Un docente necesita material didáctico urgente y entra a su tutoria en un domingo, sin autorización de autoridad alguna.",
+    "options": [
+      "Es una muestra de compromiso extremo con su labor educativa para el día lunes.",
+      "No es falta ética si no hubo robo y se hizo para mejorar la calidad de las clases.",
+      "Vulnera el respeto a los bienes y normas administrativas de la Sociedad Salesiana.",
+      "Es aceptable si el docente reporta el lunes a primera hora."
+    ],
+    "correct_index": 2,
+    "feedback": "Argumento: Debemos preservar los bienes y recursos, dándoles un uso apropiado y respetando normas. Capítulo III, Numeral 7 (Pág. 15).",
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "case": "Un docente que tiene vínculos con una fundación externa solicita a sus estudiantes de Básica Superior que vendan boletos para una rifa, indicando que a cambio les pondrá 'notas sobresalientes'.",
+    "options": [
+      "Es una iniciativa loable para ayudar a los más pobres y esta iniciativa debería ser replicada .",
+      "No se deben utilizar herramientas de comunicación ni la posición de autoridad para beneficios personales, actividades ajenas a la obra o condicionar calificaciones.",
+      "Es permitido siempre que el estudiante venda los boletos voluntariamente y no reciba nada a cambio.",
+      "Es aceptable si el Director de la obra autoriza el convenio con la fundación."
+    ],
+    "correct_index": 1,
+    "feedback": "Queda prohibido utilizar la posición docente para beneficios personales o de terceros ajenos al ecosistema escolar, y mucho menos negociar la evaluación académica por favores externos. Capítulo III, Numeral 17, Página 17.",
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "case": "Para un proyecto de 'Vida Saludable', el docente pesa y mide a los estudiantes frente a todo el curso, haciendo comentarios jocosos sobre quiénes 'tienen más salud (peso)'.",
+    "options": [
+      "Es una forma didáctica de visualizar datos reales de salud en un contexto grupal.",
+      "Intervenir y reportar inmediatamente el caso según los protocolos de protección de menores.",
+      "Decirle a la víctima que 'no les haga caso' y que sea fuerte, y llamar fuertemente la atención a los agresores.",
+      "Llamar a los representantes de los los acosadores a una reunión, para dar conocimiento y que sean los encargadps de llamar la atención a sus representados."
+    ],
+    "correct_index": 1,
+    "feedback": "Argumento: Todo el personal tiene el deber de proteger a los menores de cualquier forma de violencia, incluido el acoso digital, activando los protocolos institucionales. Capítulo V, Numeral 45, Página 27.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "case": "Un docente presencia que un estudiante está siendo víctima de ciberacoso por parte de otros compañeros en un grupo de WhatsApp. ¿Cuál es su deber ético?",
+    "options": [
+      "Salirse del grupo porque el canal oficial es la plataforma y para no tener problemas legales.",
+      "Intervenir y reportar inmediatamente el caso según los protocolos de protección de menores.",
+      "Es aceptable si el docente luego llama a los padres y les cuenta lo que hizo el alumno.",
+      "Es una forma de mantener el control de la situación en un ambiente privado y seguro."
+    ],
+    "correct_index": 1,
+    "feedback": "Argumento: El educador debe cuidar que en ninguna circunstancia se distribuyan o permitan sustancias tóxicas. Capítulo IV, Numeral 32 (Pág. 21).",
+    "difficulty": 3
+  }
+]
